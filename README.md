@@ -1,5 +1,6 @@
 開発環境：Unity、Visual Studio Code<br>
 開発言語：C#<br>
+デザインツール：figma<br>
 
 ### タイトル画面
 ![image](https://github.com/soradaza/osero/assets/86532100/675ba6f4-58cd-42d6-a62f-5610f7cde184)
